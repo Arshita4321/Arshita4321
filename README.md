@@ -100,9 +100,8 @@
 ---
 
 ### 📜 Certifications
-- [Master Generative AI & Generative AI Tools (ChatGPT & more) — Infosys](YOUR_CERT_LINK)
-- [Cloud Computing — NPTEL](YOUR_CERT_LINK)
-- [Database Structures and Management with MySQL — Meta](YOUR_CERT_LINK)
+- [Master Generative AI & Generative AI Tools (ChatGPT & more) — Infosys](https://drive.google.com/file/d/146wm3jDZXNCpdFZDs4vX3Rpzqb6AKpdx/view)
+- [Database Structures and Management with MySQL — Meta](https://www.coursera.org/account/accomplishments/verify/UAJ9QUZGDSE8)
 
 ---
 
@@ -113,7 +112,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Arshita4321&color=blue" alt="profile views"/>
 </p>
 
 <h3 align="center">Thanks for stopping by! ⭐ Feel free to explore my repos and connect.</h3>
