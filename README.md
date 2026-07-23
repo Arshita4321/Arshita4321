@@ -20,7 +20,7 @@
 - 💡 I like designing systems where **human feedback + AI evaluation loops** work together
 - 🏆 Top 10 finisher — **Code-A-Haunt Hackathon**
 - 📈 300+ problems solved on **LeetCode**
-- 📫 Reach me at: **youremail@example.com**
+- 📫 Reach me at: **arshitathakur488@gmail.com**
 
 ---
 
